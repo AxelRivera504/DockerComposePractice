@@ -59,6 +59,8 @@ docker stop b9 67 28 ce 43
 🔹 Parte 2: Docker Compose (automatizado)
 📌 ¿Qué es Docker Compose?
 
+# 🔹 Parte 2: Uso de Docker Compose
+
 Permite levantar múltiples contenedores con un solo comando usando un archivo YAML.
 
 1. Crear archivo docker-compose.yaml
